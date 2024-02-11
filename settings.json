@@ -1,0 +1,7 @@
+{
+    "Remove Registry Keys": true,
+    "Remove Paths": true,
+    "Download EAC": true,
+    "Change HWID": true,
+    "Change MAC": true
+}
